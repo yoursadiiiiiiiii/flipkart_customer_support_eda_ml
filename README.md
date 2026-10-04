@@ -65,5 +65,4 @@ The model can help customer-support teams identify
 patterns associated with customer satisfaction and improve
 support operations.
 
-## 📁 Project Structure
 
